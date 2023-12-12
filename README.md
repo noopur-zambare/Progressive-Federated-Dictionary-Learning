@@ -8,3 +8,8 @@ This research presents an innovative method for federated learning that integrat
 - Neural Network Architecture - CNN is the base model for every local client. The neural network architecture is specifically designed for image classification tasks. The model uses ReLU activations to extract features. Fully connected layers process flattened representations.
 - Federated Learning - 5 client system is trained with Curriculum Learning applied independently to each client.
 - Global Model which aggregates local dictionaries using averaging techniques. The convolutional layer of each local model then receives this global dictionary application, which modifies the model’s features according to the combined knowledge acquired by all clients.
+
+
+### Contributors
+- Noopur Nishikant Zambare
+- Satyam Kumar Gupta
