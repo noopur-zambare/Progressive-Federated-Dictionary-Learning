@@ -11,5 +11,5 @@ This research presents an innovative method for federated learning that integrat
 
 
 ### Contributors
-- Noopur Nishikant Zambare
-- Satyam Kumar Gupta
+- Noopur Zambare
+- Satyam Gupta
