@@ -10,6 +10,9 @@ This research presents an innovative method for federated learning that integrat
 - Global Model which aggregates local dictionaries using averaging techniques. The convolutional layer of each local model then receives this global dictionary application, which modifies the model’s features according to the combined knowledge acquired by all clients.
 
 
+### Inference
+- Applying Curriculum Learning in Federated Dictionary Learning has increased the accuracy up to 75%.
+- Global Model performed poorly on Dictionary Learning without Curriculum Learning as the initialization of the dictionary was random.
 ### Contributors
 - Noopur Zambare
 - Satyam Gupta
